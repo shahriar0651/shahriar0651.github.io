@@ -17,6 +17,7 @@ Education
 
 News
 ======
+- **[March 2025]**: Paper accepted: "Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks" at ESORICS 2025. 
 - **[October 2024]** Presented research on *''Securing Connected and Autonomous Vehicles: From In-Vehicular Networks to Multi-Modal Fusion''* at Amazon-VT Initiative Fall '24 Retreat at Blacksburg, VA.
 - **[August 2024]** Selected as **Amazon Fellow** by *[Amazon - Virginia Tech Initiative for Efficient and Robust Machine Learning](https://amazon.cs.vt.edu/)* for academic year 2024-25.
 - **[July 2024]**: Presented the VehiGAN paper at IEEE ICDCS 2024 in New Jersey, USA.
@@ -27,7 +28,7 @@ News
 - **[May 2023]**: Started Summer internship at [Qualcomm Inc](https://www.qualcomm.com/).  
 - **[March 2023]**: Paper accepted: "MS-PTP: Protecting Network Timing from Byzantine Attacks" at ACM WiSec 2023. 
 - **[February 2023]**: Paper accepted: "CANtropy: Time Series Feature Extraction-Based Intrusion Detection Systems for Controller Area Networks" at VehicleSec 2023.  Best paper runner-up award!
-- **[Apr 2022]**: Paper accepted: "CANShield: Signal-based Intrusion Detection for Controller Area Networks" at escar USA 2022.  
+- **[Apr 2022]**: Paper accepted: "CANShield: Signal-based Intrusion Detection for Controller Area Networks" at ESCAR USA 2022.  
 - **[May 2022]**: Started Summer internship at [Qualcomm Inc](https://www.qualcomm.com/).  
 - **[Aug 2021]**: Paper accepted: "iAttackGen: Generative Synthesis of False Data Injection Attacks in Cyber-physical System" at IEEE CNS 2021.  
 - **[May 2021]**: Paper accepted: "iDDAF: An Intelligent Deceptive Data Acquisition Framework for Secure Cyber-physical Systems" at EAI SecureComm 2021.  
