@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Amazon Fellow and PhD candidate in the Department of Computer Science at [Virginia Tech](https://www.vt.edu/), where I work as a Graduate Research Assistant in the [Complex Network and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/) under the supervision of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My research focuses on the intersection of machine learning and cybersecurity, with a particular emphasis on applications to cyber-physical systems, including connected and autonomous vehicles. 
+I am a PhD candidate in the Department of Computer Science at [Virginia Tech](https://www.vt.edu/), where I work as a Graduate Research Assistant in the [Complex Network and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/) under the supervision of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My research focuses on the intersection of machine learning and cybersecurity, with a particular emphasis on applications to cyber-physical systems, including connected and autonomous vehicles. 
 
 Education
 ======
@@ -17,6 +17,7 @@ Education
 
 News
 ======
+- **[June 2025]**: Paper accepted: "VehiGAN: Generative Adversarial Networks for Adversarially Robust V2X Misbehavior Detection Systems" at ACM Transactions on Cyber-Physical Systems. 
 - **[March 2025]**: Paper accepted: "Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks" at ESORICS 2025. 
 - **[October 2024]** Presented research on *''Securing Connected and Autonomous Vehicles: From In-Vehicular Networks to Multi-Modal Fusion''* at Amazon-VT Initiative Fall '24 Retreat at Blacksburg, VA.
 - **[August 2024]** Selected as **Amazon Fellow** by *[Amazon - Virginia Tech Initiative for Efficient and Robust Machine Learning](https://amazon.cs.vt.edu/)* for academic year 2024-25.

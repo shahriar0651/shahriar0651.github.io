@@ -1,0 +1,13 @@
+---
+title: "Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks"
+collection: publications
+permalink: /publication/2025-03-24-Paper_NoiSec
+excerpt: 'This paper proposes NoiSec that disentangles the noise from the test input, extracts the underlying features from the noise, and leverages them to recognize systematic malicious manipulation (adversarial or backdoor)'
+date: 2025-03-24
+venue: '30th European Symposium on Research in Computer Security (ESORICS), 2025'
+# slidesurl: 'http://shahriar0651.github.io/files/slides2.pdf'
+paperurl: 'http://shahriar0651.github.io/files/paper_2025_NoiSec.pdf'
+citation: 'Shahriar, M. H., Wang, N., Ramakrishnan, N., Hou, Y. T., & Lou, W. (2024). Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks. 30th European Symposium on Research in Computer Security (ESORICS), 2025'
+---
+
+The exponential adoption of machine learning (ML) is propelling the world into a future of distributed and intelligent automation and data-driven solutions. However, the proliferation of malicious data manipulation attacks against ML, namely adversarial and backdoor attacks, jeopardizes its reliability in safety-critical applications. The existing detection methods are attack-specific and built upon some strong assumptions, limiting them in diverse practical scenarios. Thus, motivated by the need for a more robust, unified, and attack-agnostic defense mechanism, we first investigate the shared traits of adversarial and backdoor attacks. Based on our observation, we propose NoiSec, a reconstruction-based intrusion detection system that brings a novel perspective by shifting focus from the reconstructed input to the reconstruction noise itself, which is the foundational root cause of such malicious data alterations. NoiSec disentangles the noise from the test input, extracts the underlying features from the noise, and leverages them to recognize systematic malicious manipulation. Our comprehensive evaluation of NoiSec demonstrates its high effectiveness across various datasets, including basic objects, natural scenes, traffic signs, medical images, spectrogram-based audio data, and wireless sensing against five state-of-the-art adversarial attacks and three backdoor attacks under challenging evaluation conditions. NoiSec demonstrates strong detection performance in both white-box and black-box adversarial attack scenarios, significantly outperforming the closest baseline models, particularly in an adaptive attack setting. We will provide the code for future baseline comparison. Our code and artifacts are publicly available at [https://github.com/shahriar0651/NoiSec](https://github.com/shahriar0651/NoiSec).
