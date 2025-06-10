@@ -11,7 +11,7 @@ I am a PhD candidate in the Department of Computer Science at [Virginia Tech](ht
 
 Education
 ======
-* Ph.D in Computer Science, [Virginia Tech](https://www.vt.edu/) (Ongoing)
+* Ph.D in Computer Science, [Virginia Tech](https://www.vt.edu/) (Expected Graduation: May 2026)
 * M.S. in Computer Engineering, [Florida International University](https://www.fiu.edu/), 2020
 * B.S. in Electrical and Electronic Engineering, [Bangladesh University of Engineering & Technology](https://www.buet.ac.bd), 2016
 
