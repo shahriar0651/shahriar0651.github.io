@@ -1,16 +1,70 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Curriculum Vitae"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
+If the embedded PDF does not load properly, you can <a href="https://github.com/shahriar0651/shahriar0651.github.io/raw/master/CV_of_Md_Hasan_Shahiar.pdf" target="_blank" style="text-decoration: underline;">download it here</a>.
+<br/>
+<br/>
+<br/>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% endif %}
+<div style="border: 0.5px solid #ddd; border-radius: 4px; overflow: hidden; box-shadow: 0 4px 4px rgba(0,0,0,0.08);">
+  <iframe 
+    src="https://docs.google.com/gview?url=https://github.com/shahriar0651/shahriar0651.github.io/raw/master/CV_of_Md_Hasan_Shahiar.pdf&embedded=true" 
+    style="width: 100%; height: 1000px;" 
+    frameborder="0">
+  </iframe>
+</div>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CV of Md Hasan Shahriar</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: #f8f9fa;
+    }
+    #cv-container {
+      position: absolute;
+      top: 50px; /* Top margin to prevent cut-off */
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+    .fallback {
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      background: rgba(255,255,255,0.9);
+      padding: 10px 15px;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+      font-family: sans-serif;
+      z-index: 999;
+    }
+  </style>
+</head>
+<body>
+  <div class="fallback">
+    If the PDF doesn’t load, <a href="https://github.com/shahriar0651/shahriar0651.github.io/raw/master/CV_of_Md_Hasan_Shahiar.pdf" target="_blank">download it here</a>.
+  </div>
+
+  <div id="cv-container">
+    <iframe src="https://docs.google.com/gview?url=https://github.com/shahriar0651/shahriar0651.github.io/raw/master/CV_of_Md_Hasan_Shahiar.pdf&embedded=true"></iframe>
+  </div>
+</body>
+</html> -->
