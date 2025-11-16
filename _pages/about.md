@@ -32,6 +32,7 @@ I am a Ph.D. student in Computer Science at Virginia Tech, working in the Comple
 ## Research Interests
 
 My research interests include:
+
 - **Cyber-Physical Systems Security**: Securing safety-critical systems like smart grids and autonomous vehicles
 - **Trustworthy AI**: Developing robust machine learning models resilient to adversarial and backdoor attacks
 - **Intrusion Detection**: Designing deep learning-based frameworks for detecting attacks in CAN and V2X networks
@@ -44,13 +45,15 @@ My Ph.D. research integrates cybersecurity, machine learning, and CPS to develop
 ## Education
 
 - **Ph.D. in Computer Science** (Jan 2021 - May 2026, Expected), Virginia Tech, Arlington, Virginia, USA
-  - Dissertation: *Toward Trustworthy Cyber-physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control*
+
+  - Dissertation: _Toward Trustworthy Cyber-physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control_
   - Advisor: Dr. Wenjing Lou
 
 - **M.S. in Computer Engineering** (Jan 2019 - Dec 2020), Florida International University, Miami, Florida, USA
-  - Thesis: *Deception Defense against Stealthy Attacks in Power Grids*
+
+  - Thesis: _Deception Defense against Stealthy Attacks in Power Grids_
   - Advisor: Dr. Mohammad Ashiqur Rahman
 
 - **B.Sc. in Electrical and Electronic Engineering** (Feb 2011 - Mar 2016), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
-  - Thesis: *Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation*
+  - Thesis: _Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation_
   - Advisor: Dr. Md Forkan Uddin

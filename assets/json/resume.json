@@ -48,11 +48,7 @@
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
       "summary": "Executed real-world adversarial attacks on traffic sign detection systems. Investigated transferability of adversarial examples across diverse object detection models. Developed DVC-based pipelines for dataset management.",
-      "highlights": [
-        "Adversarial robustness evaluation",
-        "Transferability analysis",
-        "DVC-based experiment pipelines"
-      ]
+      "highlights": ["Adversarial robustness evaluation", "Transferability analysis", "DVC-based experiment pipelines"]
     },
     {
       "name": "Qualcomm Incorporated",
@@ -61,10 +57,7 @@
       "startDate": "2022-05-01",
       "endDate": "2022-08-01",
       "summary": "Researched and evaluated generative AI models (GANs) to synthesize realistic yet fake V2X messages. Designed a GAN-based misbehavior detection system for anomalous basic safety messages (BSMs).",
-      "highlights": [
-        "GAN-based V2X security",
-        "Misbehavior detection systems"
-      ]
+      "highlights": ["GAN-based V2X security", "Misbehavior detection systems"]
     },
     {
       "name": "Analytics for Cyber Defense (ACyD) Lab, Florida International University",
@@ -86,10 +79,7 @@
       "startDate": "2017-09-01",
       "endDate": "2018-12-01",
       "summary": "Operated a 2x120 MW gas turbine power plant by coordinating with the national load dispatch center. Developed operational and maintenance schedules to minimize downtime.",
-      "highlights": [
-        "Power plant operations",
-        "Maintenance scheduling"
-      ]
+      "highlights": ["Power plant operations", "Maintenance scheduling"]
     },
     {
       "name": "Uttara University",
@@ -98,11 +88,7 @@
       "startDate": "2016-05-01",
       "endDate": "2017-05-01",
       "summary": "Taught undergraduate courses: Electrical Circuits, Basic Electronics, Digital Logic Design, and Microprocessor Interfacing. Led corresponding lab sessions.",
-      "highlights": [
-        "Electrical Circuits",
-        "Digital Logic Design",
-        "Microprocessor Interfacing"
-      ]
+      "highlights": ["Electrical Circuits", "Digital Logic Design", "Microprocessor Interfacing"]
     }
   ],
   "education": [
@@ -129,10 +115,7 @@
       "startDate": "2019-01-01",
       "endDate": "2020-12-01",
       "score": "",
-      "courses": [
-        "Thesis: Deception Defense against Stealthy Attacks in Power Grids",
-        "Advisor: Dr. Mohammad Ashiqur Rahman"
-      ]
+      "courses": ["Thesis: Deception Defense against Stealthy Attacks in Power Grids", "Advisor: Dr. Mohammad Ashiqur Rahman"]
     },
     {
       "institution": "Bangladesh University of Engineering and Technology",
@@ -143,10 +126,7 @@
       "startDate": "2011-02-01",
       "endDate": "2016-03-01",
       "score": "",
-      "courses": [
-        "Thesis: Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation",
-        "Advisor: Dr. Md Forkan Uddin"
-      ]
+      "courses": ["Thesis: Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation", "Advisor: Dr. Md Forkan Uddin"]
     }
   ],
   "awards": [
@@ -184,34 +164,19 @@
       "name": "Cyber-Physical Systems Security",
       "level": "Expert",
       "icon": "fa-solid fa-shield-halved",
-      "keywords": [
-        "Intrusion Detection",
-        "CAN Networks",
-        "V2X Security",
-        "Smart Grid Security"
-      ]
+      "keywords": ["Intrusion Detection", "CAN Networks", "V2X Security", "Smart Grid Security"]
     },
     {
       "name": "Machine Learning & AI",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Deep Learning",
-        "Adversarial ML",
-        "Generative Adversarial Networks (GANs)",
-        "Multimodal Fusion"
-      ]
+      "keywords": ["Deep Learning", "Adversarial ML", "Generative Adversarial Networks (GANs)", "Multimodal Fusion"]
     },
     {
       "name": "Programming",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "PyTorch",
-        "TensorFlow",
-        "C/C++"
-      ]
+      "keywords": ["Python", "PyTorch", "TensorFlow", "C/C++"]
     }
   ],
   "languages": [
@@ -230,23 +195,14 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-microscope",
-      "keywords": [
-        "Cyber-Physical Systems",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Autonomous Vehicles",
-        "Trustworthy AI"
-      ]
+      "keywords": ["Cyber-Physical Systems", "Artificial Intelligence", "Cybersecurity", "Autonomous Vehicles", "Trustworthy AI"]
     }
   ],
   "projects": [
     {
       "name": "CANShield",
       "summary": "Deep Learning-Based Intrusion Detection Framework for Controller Area Networks at the Signal-Level",
-      "highlights": [
-        "Published in IEEE Internet of Things Journal (Impact Factor: 10.6)",
-        "Signal-level intrusion detection for CAN networks"
-      ],
+      "highlights": ["Published in IEEE Internet of Things Journal (Impact Factor: 10.6)", "Signal-level intrusion detection for CAN networks"],
       "startDate": "2021-01-01",
       "endDate": "2023-01-01",
       "url": "https://github.com/shahriar0651/CANShield"
@@ -254,10 +210,7 @@
     {
       "name": "VehiGAN",
       "summary": "Generative Adversarial Networks for Adversarially Robust V2X Misbehavior Detection Systems",
-      "highlights": [
-        "Published in ACM Transactions on Cyber-Physical Systems",
-        "GAN-based misbehavior detection for V2X networks"
-      ],
+      "highlights": ["Published in ACM Transactions on Cyber-Physical Systems", "GAN-based misbehavior detection for V2X networks"],
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",
       "url": "https://github.com/shahriar0651/VehiGAN"
@@ -265,10 +218,7 @@
     {
       "name": "NoiSec",
       "summary": "Unified Defense Against Adversarial and Backdoor Attacks Using Noise",
-      "highlights": [
-        "Accepted at ESORICS 2025 (Acceptance rate: 17%)",
-        "Unified defense framework for multimodal systems"
-      ],
+      "highlights": ["Accepted at ESORICS 2025 (Acceptance rate: 17%)", "Unified defense framework for multimodal systems"],
       "startDate": "2023-01-01",
       "endDate": "2025-01-01",
       "url": "https://github.com/shahriar0651/NoiSec"
