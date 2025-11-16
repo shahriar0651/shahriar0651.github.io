@@ -2,96 +2,145 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Md Hasan Shahriar
+    - name: Position
+      value: PhD Candidate in Computer Science
+    - name: Institution
+      value: Virginia Tech
+    - name: Location
+      value: Arlington, Virginia, USA
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: Virginia Tech
+      year: 2021 - 2026 (Expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dissertation: Toward Trustworthy Cyber-physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control
+        - Advisor: Dr. Wenjing Lou
+    - title: MS in Computer Engineering
+      institution: Florida International University
+      year: 2019 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Deception Defense against Stealthy Attacks in Power Grids
+        - Advisor: Dr. Mohammad Ashiqur Rahman
+    - title: BSc in Electrical and Electronic Engineering
+      institution: Bangladesh University of Engineering and Technology
+      year: 2011 - 2016
+      description:
+        - Thesis: Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation
+        - Advisor: Dr. Md Forkan Uddin
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Student Researcher
+      institution: Complex Network and Security Research (CNSR) Lab, Virginia Tech
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advisor: Dr. Wenjing Lou
+        - Ph.D. research integrating cybersecurity, machine learning, and CPS to develop robust, resilient, and trustworthy AI for connected and autonomous vehicles
+        - Designed intrusion detection systems for CAN and V2X networks to counter stealthy and adversarial attacks
+        - Investigated and designed defense mechanisms against network-induced and multimodal fusion attacks on autonomous perception
+        - Developed a unified defense framework that mitigates both adversarial and backdoor ML threats across diverse modalities   
+    - title: Graduate Student Researcher
+      institution: Analytics for Cyber Defense (ACyD) Lab, Florida International University
+      year: 2019 - 2020
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Advisor: Dr. Mohammad Ashiqur Rahman
+        - M.S. research focused on securing cyber-physical systems, particularly detecting and mitigating stealthy threats in the smart grid
+        - Developed a threat synthesizer combining formal methods and GANs to model complex attack behaviors
+        - Proposed a deception-based moving target defense to counter stealthy intrusions
+        - Explored GAN-based defense models for network security
+    - title: Undergraduate Student Researcher
+      institution: Bangladesh University of Engineering and Technology
+      year: 2014 - 2016
       description:
+        - Analyzed the robustness of different Maximum Power Point Tracking algorithms for the smart grid under cyberattacks
+        - Developed strategies to improve system resilience
+        - Advisor: Dr. Forkan Uddin
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Industrial Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Interim Engineering Intern
+      institution: Qualcomm Incorporated
+      year: 2023
+      description:
+        - Executed real-world adversarial attacks on traffic sign detection systems to quantify adversarial robustness
+        - Investigated the transferability of adversarial examples across diverse object detection models
+        - Developed DVC-based pipelines for systematic dataset management and reproducible experiments
+        - Location: San Diego, California, USA
+    - title: Interim Engineering Intern
+      institution: Qualcomm Incorporated
+      year: 2022
+      description:
+        - Researched and evaluated generative AI models (GANs) to synthesize realistic yet fake V2X messages
+        - Designed a GAN-based misbehavior detection to effectively detect anomalous basic safety messages (BSMs)
+        - Location: Boxborough, Massachusetts, USA
+    - title: Assistant Engineer (Electrical)
+      institution: Electricity Generation Company Bangladesh Ltd.
+      year: 2017 - 2018
+      description:
+        - Operated a 2x120 MW gas turbine power plant by coordinating with the national load dispatch center
+        - Developed operational and maintenance schedules to minimize downtime through proactive planning
+        - Location: Dhaka, Bangladesh
+    - title: Lecturer, Department of Computer Science
+      institution: Uttara University
+      year: 2016 - 2017
+      description:
+        - Taught undergraduate courses: Electrical Circuits, Basic Electronics, Digital Logic Design, Microprocessor Interfacing
+        - Led corresponding lab sessions
+        - Location: Uttara, Dhaka, Bangladesh
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Amazon Fellowship, Amazon-VT Initiative for Efficient and Robust Machine Learning
+        - Student Travel Grant for Attending IEEE ICDCS, U.S. National Science Foundation
+        - Student Travel Grant, CyberTruck Challenge
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Best Paper Runner Up Award, Symposium on Vehicle Security and Privacy (VehicleSec)
+        - Student Travel Grant, Inaugural Symposium on Vehicle Security and Privacy (VehicleSec)
+        - Fellowship for Graduate Student First-Author Papers, Graduate School, Virginia Tech
+    - year: 2021
+      items:
+        - Bangladesh-Sweden Trust Fund Scholarship
+    - year: 2019
+      items:
+        - Student Travel Grant for Attending ACM WiSec, U.S. Army Research Office
+    - year: 2011
+      items:
+        - Admission Test Excellency Scholarship, Bangladesh University of Engineering and Technology
+    - year: 2008 & 2010
+      items:
+        - Education Board Scholarship, Government of Bangladesh
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Cyber-Physical Systems Security
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Securing safety-critical systems like smart grids and autonomous vehicles
+        - Intrusion detection systems for CAN and V2X networks
+        - Deception-based defense mechanisms
+    - title: Trustworthy AI
       items:
-        - Description 1.
-        - Description 2.
+        - Robust machine learning models resilient to adversarial and backdoor attacks
+        - Unified defense frameworks for multimodal systems
+        - Generative AI for security applications
+    - title: Autonomous Vehicle Security
+      items:
+        - Multimodal fusion attacks and defenses
+        - Network-induced attacks on perception systems
+        - V2X misbehavior detection
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Research lies at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity
+    - Focus on developing scalable, attack-resilient, and trustworthy AI frameworks for safety-critical systems

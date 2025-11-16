@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Graduate Student Researcher at <a href='https://www.vt.edu/'>Virginia Tech</a>. Complex Network and Security Research (CNSR) Lab.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Complex Network and Security Research Lab</p>
+    <p>Virginia Tech Research Center</p>
+    <p>900 N Glebe Road, Arlington, VA 22204</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,30 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Computer Science at Virginia Tech, working in the Complex Network and Security Research (CNSR) Lab under the supervision of [Dr. Wenjing Lou](https://people.cs.vt.edu/wenjing/). My research lies at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity. I focus on uncovering and mitigating security vulnerabilities in safety-critical CPS---particularly in embodied AI systems such as connected and autonomous vehicles---by developing scalable, attack-resilient, and trustworthy AI frameworks that can operate safely under real-world uncertainty and adversarial conditions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Research Interests
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests include:
+- **Cyber-Physical Systems Security**: Securing safety-critical systems like smart grids and autonomous vehicles
+- **Trustworthy AI**: Developing robust machine learning models resilient to adversarial and backdoor attacks
+- **Intrusion Detection**: Designing deep learning-based frameworks for detecting attacks in CAN and V2X networks
+- **Generative AI for Security**: Using GANs for threat modeling and misbehavior detection
+
+## Current Research
+
+My Ph.D. research integrates cybersecurity, machine learning, and CPS to develop robust, resilient, and trustworthy AI for connected and autonomous vehicles. I have designed intrusion detection systems for CAN and V2X networks to counter stealthy and adversarial attacks, investigated network-induced and multimodal fusion attacks on autonomous perception, and developed a unified defense framework that mitigates both adversarial and backdoor ML threats across diverse modalities.
+
+## Education
+
+- **Ph.D. in Computer Science** (Jan 2021 - May 2026, Expected), Virginia Tech, Arlington, Virginia, USA
+  - Dissertation: *Toward Trustworthy Cyber-physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control*
+  - Advisor: Dr. Wenjing Lou
+
+- **M.S. in Computer Engineering** (Jan 2019 - Dec 2020), Florida International University, Miami, Florida, USA
+  - Thesis: *Deception Defense against Stealthy Attacks in Power Grids*
+  - Advisor: Dr. Mohammad Ashiqur Rahman
+
+- **B.Sc. in Electrical and Electronic Engineering** (Feb 2011 - Mar 2016), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+  - Thesis: *Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation*
+  - Advisor: Dr. Md Forkan Uddin
