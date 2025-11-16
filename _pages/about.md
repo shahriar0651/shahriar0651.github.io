@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Computer Science at Virginia Tech, working in the Complex Network and Security Research (CNSR) Lab under the supervision of [Dr. Wenjing Lou](https://people.cs.vt.edu/wenjing/). My research lies at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity. I focus on uncovering and mitigating security vulnerabilities in safety-critical CPS---particularly in embodied AI systems such as connected and autonomous vehicles---by developing scalable, attack-resilient, and trustworthy AI frameworks that can operate safely under real-world uncertainty and adversarial conditions.
+I am a Ph.D. student in Computer Science at Virginia Tech, working in the Complex Network and Security Research (CNSR) Lab under the supervision of [Dr. Wenjing Lou](https://people.cs.vt.edu/wenjing/). My research lies at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity. I focus on uncovering and mitigating security vulnerabilities in safety-critical CPS---such as smart grid, connected and autonomous vehicles---by developing scalable, attack-resilient, and trustworthy AI frameworks that can operate safely under real-world uncertainty and adversarial conditions.
 
 ## Research Interests
 
@@ -36,7 +36,7 @@ My research interests include:
 - **Cyber-Physical Systems Security**: Securing safety-critical systems like smart grids and autonomous vehicles
 - **Trustworthy AI**: Developing robust machine learning models resilient to adversarial and backdoor attacks
 - **Intrusion Detection**: Designing deep learning-based frameworks for detecting attacks in CAN and V2X networks
-- **Generative AI for Security**: Using GANs for threat modeling and misbehavior detection
+<!-- - **Generative AI for Security**: Using GANs for threat modeling and misbehavior detection -->
 
 ## Current Research
 
@@ -44,16 +44,13 @@ My Ph.D. research integrates cybersecurity, machine learning, and CPS to develop
 
 ## Education
 
-- **Ph.D. in Computer Science** (Jan 2021 - May 2026, Expected), Virginia Tech, Arlington, Virginia, USA
-
+- **Ph.D. in Computer Science**, Virginia Tech, 2021 - 2026
+<!-- 
   - Dissertation: _Toward Trustworthy Cyber-physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control_
-  - Advisor: Dr. Wenjing Lou
-
-- **M.S. in Computer Engineering** (Jan 2019 - Dec 2020), Florida International University, Miami, Florida, USA
-
-  - Thesis: _Deception Defense against Stealthy Attacks in Power Grids_
-  - Advisor: Dr. Mohammad Ashiqur Rahman
-
-- **B.Sc. in Electrical and Electronic Engineering** (Feb 2011 - Mar 2016), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
-  - Thesis: _Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation_
-  - Advisor: Dr. Md Forkan Uddin
+  - Advisor: Dr. Wenjing Lou -->
+- **M.S. in Computer Engineering**  Florida International University, 2019 - 2020
+  <!-- - Thesis: _Deception Defense against Stealthy Attacks in Power Grids_
+  - Advisor: Dr. Mohammad Ashiqur Rahman -->
+- **B.Sc. in Electrical and Electronic Engineering** Bangladesh University of Engineering and Technology, 2011 - Mar 2016
+  <!-- - Thesis: _Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation_
+  - Advisor: Dr. Md Forkan Uddin -->
