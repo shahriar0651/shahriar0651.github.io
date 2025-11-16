@@ -17,20 +17,20 @@
       institution: Virginia Tech
       year: 2021 - 2026 (Expected)
       description:
-        - Dissertation: Toward Trustworthy Cyber-physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control
-        - Advisor: Dr. Wenjing Lou
+        - "Dissertation: Toward Trustworthy Cyber-physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control"
+        - "Advisor: Dr. Wenjing Lou"
     - title: MS in Computer Engineering
       institution: Florida International University
       year: 2019 - 2020
       description:
-        - Thesis: Deception Defense against Stealthy Attacks in Power Grids
-        - Advisor: Dr. Mohammad Ashiqur Rahman
+        - "Thesis: Deception Defense against Stealthy Attacks in Power Grids"
+        - "Advisor: Dr. Mohammad Ashiqur Rahman"
     - title: BSc in Electrical and Electronic Engineering
       institution: Bangladesh University of Engineering and Technology
       year: 2011 - 2016
       description:
-        - Thesis: Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation
-        - Advisor: Dr. Md Forkan Uddin
+        - "Thesis: Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation"
+        - "Advisor: Dr. Md Forkan Uddin"
 
 - title: Research Experience
   type: time_table
@@ -39,7 +39,7 @@
       institution: Complex Network and Security Research (CNSR) Lab, Virginia Tech
       year: 2021 - Present
       description:
-        - Advisor: Dr. Wenjing Lou
+        - "Advisor: Dr. Wenjing Lou"
         - Ph.D. research integrating cybersecurity, machine learning, and CPS to develop robust, resilient, and trustworthy AI for connected and autonomous vehicles
         - Designed intrusion detection systems for CAN and V2X networks to counter stealthy and adversarial attacks
         - Investigated and designed defense mechanisms against network-induced and multimodal fusion attacks on autonomous perception
@@ -48,7 +48,7 @@
       institution: Analytics for Cyber Defense (ACyD) Lab, Florida International University
       year: 2019 - 2020
       description:
-        - Advisor: Dr. Mohammad Ashiqur Rahman
+        - "Advisor: Dr. Mohammad Ashiqur Rahman"
         - M.S. research focused on securing cyber-physical systems, particularly detecting and mitigating stealthy threats in the smart grid
         - Developed a threat synthesizer combining formal methods and GANs to model complex attack behaviors
         - Proposed a deception-based moving target defense to counter stealthy intrusions
@@ -59,7 +59,7 @@
       description:
         - Analyzed the robustness of different Maximum Power Point Tracking algorithms for the smart grid under cyberattacks
         - Developed strategies to improve system resilience
-        - Advisor: Dr. Forkan Uddin
+        - "Advisor: Dr. Forkan Uddin"
 
 - title: Industrial Experience
   type: time_table
@@ -71,28 +71,28 @@
         - Executed real-world adversarial attacks on traffic sign detection systems to quantify adversarial robustness
         - Investigated the transferability of adversarial examples across diverse object detection models
         - Developed DVC-based pipelines for systematic dataset management and reproducible experiments
-        - Location: San Diego, California, USA
+        - "Location: San Diego, California, USA"
     - title: Interim Engineering Intern
       institution: Qualcomm Incorporated
       year: 2022
       description:
         - Researched and evaluated generative AI models (GANs) to synthesize realistic yet fake V2X messages
         - Designed a GAN-based misbehavior detection to effectively detect anomalous basic safety messages (BSMs)
-        - Location: Boxborough, Massachusetts, USA
+        - "Location: Boxborough, Massachusetts, USA"
     - title: Assistant Engineer (Electrical)
       institution: Electricity Generation Company Bangladesh Ltd.
       year: 2017 - 2018
       description:
         - Operated a 2x120 MW gas turbine power plant by coordinating with the national load dispatch center
         - Developed operational and maintenance schedules to minimize downtime through proactive planning
-        - Location: Dhaka, Bangladesh
+        - "Location: Dhaka, Bangladesh"
     - title: Lecturer, Department of Computer Science
       institution: Uttara University
       year: 2016 - 2017
       description:
-        - Taught undergraduate courses: Electrical Circuits, Basic Electronics, Digital Logic Design, Microprocessor Interfacing
+        - "Taught undergraduate courses: Electrical Circuits, Basic Electronics, Digital Logic Design, Microprocessor Interfacing"
         - Led corresponding lab sessions
-        - Location: Uttara, Dhaka, Bangladesh
+        - "Location: Uttara, Dhaka, Bangladesh"
 
 - title: Honors and Awards
   type: time_table
