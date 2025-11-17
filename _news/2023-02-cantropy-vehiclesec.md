@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Paper accepted: "CANtropy: Time Series Feature Extraction-Based Intrusion Detection Systems for Controller Area Networks" at VehicleSec 2023. **Best paper runner-up award!**
-

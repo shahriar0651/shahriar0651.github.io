@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Selected as **Amazon Fellow** by [Amazon - Virginia Tech Initiative for Efficient and Robust Machine Learning](https://amazon.cs.vt.edu/) for academic year 2024-25.
-

@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Started Ph.D. in [Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/); joined [CNSR Lab](https://www.cnsr.ictas.vt.edu/index.html) as a Graduate Research Assistant.
-

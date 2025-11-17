@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Presented a poster on "False Data Injection Attacks against Contingency Analysis in Power Grids" at the FICS Cybersecurity Conference, UF.
-

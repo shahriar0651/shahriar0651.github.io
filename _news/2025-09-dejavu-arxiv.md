@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on ["DejaVu: Temporal Misalignment Attacks against Autonomous Driving''](https://arxiv.org/abs/2507.09095) is now available on *arXiv*.
-
+Our paper on ["DejaVu: Temporal Misalignment Attacks against Autonomous Driving''](https://arxiv.org/abs/2507.09095) is now available on _arXiv_.

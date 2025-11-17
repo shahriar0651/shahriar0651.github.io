@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Defended MS thesis: "Deception Defense against Stealthy Attacks in Power Grids."
-

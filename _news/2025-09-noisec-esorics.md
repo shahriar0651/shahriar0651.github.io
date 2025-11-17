@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented our **NoiSec** paper at *ESORICS 2025* in Toulouse, France.
-
+Presented our **NoiSec** paper at _ESORICS 2025_ in Toulouse, France.

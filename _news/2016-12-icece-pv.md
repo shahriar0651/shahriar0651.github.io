@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Paper accepted: "Stability Analysis of Grid-connected PV Array Under Maximum Power Point Tracking" at IEEE ICECE, Dhaka 2016.
-

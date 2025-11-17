@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Joined [Uttara University](https://uttarauniversity.edu.bd/), Dhaka as a Lecturer in EEE.
-

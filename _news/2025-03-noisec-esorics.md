@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Paper accepted: "Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks" at ESORICS 2025.
-

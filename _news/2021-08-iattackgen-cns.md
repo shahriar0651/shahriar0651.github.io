@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Paper accepted: "iAttackGen: Generative Synthesis of False Data Injection Attacks in Cyber-physical System" at IEEE CNS 2021.
-

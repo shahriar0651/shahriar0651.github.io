@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Started Summer internship at [Qualcomm Inc](https://www.qualcomm.com/).
-

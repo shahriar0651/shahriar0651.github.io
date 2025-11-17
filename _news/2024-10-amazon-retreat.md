@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented research on *"Securing Connected and Autonomous Vehicles: From In-Vehicular Networks to Multi-Modal Fusion"* at Amazon-VT Initiative Fall '24 Retreat at Blacksburg, VA.
-
+Presented research on _"Securing Connected and Autonomous Vehicles: From In-Vehicular Networks to Multi-Modal Fusion"_ at Amazon-VT Initiative Fall '24 Retreat at Blacksburg, VA.

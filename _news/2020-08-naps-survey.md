@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Paper accepted: "Machine Learning in Generation, Detection, and Mitigation of Cyberattacks in Smart Grid: A Survey" at NAPS 2020.
-
