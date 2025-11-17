@@ -7,7 +7,6 @@ first_name: Md Hasan
 middle_name:
 last_name: Shahriar
 contact_note: >
-  # You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Candidate in Computer Science at Virginia Tech. Research interests: Cyber-physical systems, Artificial Intelligence, and Cybersecurity, with a focus on trustworthy AI for autonomous vehicles.
 footer_text: >

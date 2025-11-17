@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student Researcher at <a href='https://www.vt.edu/'>Virginia Tech</a>. Complex Network and Security Research (CNSR) Lab.
+subtitle: PhD Candidate in CS | Virginia Tech | CNSR Lab | AI/CPS Security Researcher
 
 profile:
   align: right
