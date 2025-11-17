@@ -2,13 +2,19 @@
 layout: page
 title: Defending Autonomous CPS Against Adaptive and Stealthy Cyber Attacks
 description: Trustworthy ML-based intrusion detection systems for autonomous cyber-physical systems
-img: assets/img/12.jpg
+img: assets/img/thrust_1.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
 ### **Thrust I: Defending Autonomous CPS Against Adaptive and Stealthy Cyber Attacks**
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/thrust_1.jpg" title="Thrust I: Defending Autonomous CPS Against Adaptive and Stealthy Cyber Attacks" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Autonomous cyber-physical systems (CPS)—such as connected and autonomous vehicles—combine heterogeneous sensors, actuators, controllers, and communication interfaces that continuously exchange safety-critical information. While this connectivity enables advanced autonomy, it also expands the attack surface, creating new opportunities for stealthy and adaptive cyber threats. To secure these systems, intrusion detection must go beyond fixed, signature-based rules and instead learn normal behavior, detect deviations, and remain resilient even when adversaries attempt to deceive the detector itself.
 

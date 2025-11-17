@@ -2,13 +2,19 @@
 layout: page
 title: Defense Against Cross-Domain Cyber–ML Attacks in Autonomous CPS
 description: Securing multimodal perception pipelines against network-induced and timing attacks
-img: assets/img/7.jpg
+img: assets/img/thrust_3.jpg
 importance: 3
 category: work
 related_publications: true
 ---
 
 ### **Thrust III: Defense Against Cross-Domain Cyber–ML Attacks in Autonomous CPS**
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/thrust_3.jpg" title="Thrust III: Defense Against Cross-Domain Cyber–ML Attacks in Autonomous CPS" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Autonomous CPS depend on tightly coupled sensing, communication, and learning pipelines. Multimodal sensors such as cameras, LiDAR, and radar provide complementary information, while high-speed networks and synchronization protocols ensure that these data streams arrive on time and in alignment. Machine learning models then fuse these heterogeneous modalities to produce reliable scene understanding and support downstream planning and control. This seamless integration of sensing, networking, and ML is essential for safe autonomy—but it also introduces a new class of vulnerabilities that emerge between these domains.
 
