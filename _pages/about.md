@@ -27,30 +27,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Computer Science at Virginia Tech, working in the Complex Network and Security Research (CNSR) Lab under the supervision of [Dr. Wenjing Lou](https://people.cs.vt.edu/wenjing/). My research lies at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity. I focus on uncovering and mitigating security vulnerabilities in safety-critical CPS---such as smart grid, connected and autonomous vehicles---by developing scalable, attack-resilient, and trustworthy AI frameworks that can operate safely under real-world uncertainty and adversarial conditions.
+I am a Ph.D. candidate in Computer Science at Virginia Tech, working in the Complex Network and Security Research (CNSR) Lab under the supervision of [Dr. Wenjing Lou](https://people.cs.vt.edu/wenjing/). My research lies at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity. **I am actively seeking tenure-track faculty opportunities starting in Fall 2026.**
 
-## Research Interests
 
-My research interests include:
-
-- **Cyber-Physical Systems Security**: Securing safety-critical systems like smart grids and autonomous vehicles
-- **Trustworthy AI**: Developing robust machine learning models resilient to adversarial and backdoor attacks
-- **Intrusion Detection**: Designing deep learning-based frameworks for detecting attacks in CAN and V2X networks
-<!-- - **Generative AI for Security**: Using GANs for threat modeling and misbehavior detection -->
 
 ## Current Research
 
-My Ph.D. research integrates cybersecurity, machine learning, and CPS to develop robust, resilient, and trustworthy AI for connected and autonomous vehicles. I have designed intrusion detection systems for CAN and V2X networks to counter stealthy and adversarial attacks, investigated network-induced and multimodal fusion attacks on autonomous perception, and developed a unified defense framework that mitigates both adversarial and backdoor ML threats across diverse modalities.
+My research advances the security and resilience of intelligent cyber-physical systems (CPS) as they evolve into embodied, AI-driven agents that perceive, decide, and act in the physical world. As AI/ML becomes deeply embedded in vehicles, robots, and critical infrastructure, these systems face fundamentally new risks—arising from cyberattacks, adversarial manipulation of ML models, and vulnerabilities created at the intersection of sensing, networking, and decision-making. My research aims to ensure that such embodied intelligent systems remain **safe**, **trustworthy**, and **dependable** under real-world uncertainty and adversarial conditions. At the core of my work is a unifying question: *How can we design intelligent CPS that maintain reliable operation even when attacks target the physical platform (“the body”), the AI algorithms (“the brain”), or the interface connecting them?* To address this, I pursue two complementary directions—**AI for security** and **security of AI**—with an emphasis on securing the next generation of embodied, intelligent, and autonomous CPS.
+
+## **Research Interests**
+
+* **Trustworthy & Robust AI** — advancing reliable, resilient, and secure machine learning models.
+* **Cyber-Physical Systems Security** — safeguarding intelligent and safety-critical CPS from cyber and physical threats.
+* **Intelligent & Embodied CPS (AI + CPS)** — securing AI-driven autonomous systems where sensing, networking, and learning converge.
+
 
 ## Education
 
-- **Ph.D. in Computer Science**, Virginia Tech, 2021 - 2026
-<!-- 
-  - Dissertation: _Toward Trustworthy Cyber-physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control_
-  - Advisor: Dr. Wenjing Lou -->
+- **Ph.D. in Computer Science**, Virginia Tech, 2021 - 2026 (Expected)
 - **M.S. in Computer Engineering**  Florida International University, 2019 - 2020
-  <!-- - Thesis: _Deception Defense against Stealthy Attacks in Power Grids_
-  - Advisor: Dr. Mohammad Ashiqur Rahman -->
 - **B.Sc. in Electrical and Electronic Engineering** Bangladesh University of Engineering and Technology, 2011 - Mar 2016
-  <!-- - Thesis: _Transient Stability Analysis of Smart Grids with Impacts of Distributed Generation_
-  - Advisor: Dr. Md Forkan Uddin -->
