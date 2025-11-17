@@ -179,18 +179,6 @@
       "keywords": ["Python", "PyTorch", "TensorFlow", "C/C++"]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "Bengali",
-      "fluency": "Native",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Research",

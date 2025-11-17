@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shahriar0651
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - shahriar0651/CANShield
+  - shahriar0651/VehiGAN
+  - shahriar0651/NoiSec
+  - shahriar0651/CANTropy
+  - shahriar0651/iddaf-cps
+  - shahriar0651/iattackgen-cps
+  - shahriar0651/iAttackGen
+  - shahriar0651/ufdi-scopf
