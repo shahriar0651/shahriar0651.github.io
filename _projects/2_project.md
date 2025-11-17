@@ -1,81 +1,19 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Defense Against Adversarial and Backdoor ML Attacks in Autonomous CPS
+description: Unified defenses for trustworthy perception in autonomous cyber-physical systems
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### **Thrust II: Defense Against Adversarial and Backdoor ML Attacks in Autonomous CPS**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+As autonomous CPS increasingly rely on high-capacity ML models to interpret multimodal sensor data and guide real-time decisions, these models become prime targets for adversarial and backdoor attacks. Even small, carefully crafted perturbations—often imperceptible to humans—can break perception pipelines, distort situational awareness, and trigger dangerous control actions. These risks are amplified in autonomous vehicles, robots, and UAVs, where the physical consequences of misclassification can be immediate and severe.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+My research in this thrust focuses on understanding, modeling, and defending against these ML-targeted manipulations within safety-critical autonomous systems. I study how adversarial and backdoor attacks exploit the internal representations of perception models, how these vulnerabilities manifest across sensing modalities {% cite shahriar2025fragility %}, and how to design defenses that remain effective under real-world constraints such as limited compute, dynamic environments, and online decision-making.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+A key component of this research direction is developing **unified, modality-agnostic defenses** that protect the perception stack against a wide spectrum of ML attacks. Rather than treating adversarial and backdoor attacks as isolated problems, my work examines the shared structural characteristics of malicious perturbations and leverages these insights to build generalizable, efficient, and interpretable detection mechanisms {% cite shahriar2025let %}. I also explore how noise geometry, representation alignment, and system-level context can be used to create lightweight defenses suitable for real-time CPS and resource-constrained platforms.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Broadly, this thrust aims to establish a principled foundation for **trustworthy perception** in autonomous CPS by ensuring that ML models remain reliable, secure, and tamper-resistant even in adversarial environments.

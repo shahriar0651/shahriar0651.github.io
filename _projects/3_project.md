@@ -1,81 +1,19 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Defense Against Cross-Domain Cyber–ML Attacks in Autonomous CPS
+description: Securing multimodal perception pipelines against network-induced and timing attacks
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### **Thrust III: Defense Against Cross-Domain Cyber–ML Attacks in Autonomous CPS**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Autonomous CPS depend on tightly coupled sensing, communication, and learning pipelines. Multimodal sensors such as cameras, LiDAR, and radar provide complementary information, while high-speed networks and synchronization protocols ensure that these data streams arrive on time and in alignment. Machine learning models then fuse these heterogeneous modalities to produce reliable scene understanding and support downstream planning and control. This seamless integration of sensing, networking, and ML is essential for safe autonomy—but it also introduces a new class of vulnerabilities that emerge between these domains.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+My research in this thrust focuses on understanding and defending against cross-domain cyber–ML attacks that manipulate the communication, timing, or synchronization layers in ways that disrupt learning-based perception without ever altering the raw sensor content. These attacks exploit the implicit assumptions that autonomous systems make about temporal alignment, data freshness, and middleware integrity. Even small network-induced delays or subtle timing inconsistencies can break multimodal fusion logic, degrade perception accuracy, and cascade into hazardous control decisions {% cite shahriar2025fragility %}.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+This research area seeks to uncover these overlooked vulnerabilities and build defenses that preserve the temporal and semantic integrity of multimodal perception pipelines. I study how timing, networking, and ML interactions create attack surfaces unique to autonomous systems, and I design lightweight, model-agnostic mechanisms that verify consistency across modalities based on shared semantics rather than trust in the network {% cite shi2023ms %}. By grounding security in cross-modal coherence, this thrust aims to ensure that multimodal perception remains reliable even when the underlying communication and synchronization stack is under adversarial influence.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Broadly, this direction contributes to a foundational understanding of how cyber-layer manipulations can silently compromise ML-driven autonomy, and develops principled defenses that secure the fusion of sensing, networking, and intelligence in next-generation autonomous CPS.
