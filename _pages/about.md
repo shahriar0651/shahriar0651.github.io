@@ -29,7 +29,7 @@ latest_posts:
 ---
 
 I am a PhD candidate in Computer Science at Virginia Tech, working in the Complex Network and Security Research (CNSR) Lab under the supervision of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html)
-My research bridges cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity, driven by a vision for securing the next generation of embodied and physical AI.
+My research bridges **cyber-physical systems (CPS)**, **artificial intelligence (AI)**, and **cybersecurity**, driven by a vision for securing the next generation of **Embodied AI**.
 
 **I'm open to tenure-track faculty opportunities beginning in Fall 2026.**
 
