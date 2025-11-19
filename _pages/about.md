@@ -33,7 +33,6 @@ My research bridges cyber-physical systems (CPS), artificial intelligence (AI), 
 
 **I'm open to tenure-track faculty opportunities beginning in Fall 2026.**
 
-
 ## research interests
 
 - Trustworthy & Robust Artificial Intelligence
