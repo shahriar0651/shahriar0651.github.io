@@ -10,12 +10,6 @@ related_publications: true
 
 ### **Thrust II: Defense Against Adversarial and Backdoor ML Attacks in Autonomous CPS**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/thrust_2.jpg" title="Thrust II: Defense Against Adversarial and Backdoor ML Attacks in Autonomous CPS" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 As autonomous CPS increasingly rely on high-capacity ML models to interpret multimodal sensor data and guide real-time decisions, these models become prime targets for adversarial and backdoor attacks. Even small, carefully crafted perturbations—often imperceptible to humans—can break perception pipelines, distort situational awareness, and trigger dangerous control actions. These risks are amplified in autonomous vehicles, robots, and UAVs, where the physical consequences of misclassification can be immediate and severe.
 
 My research in this thrust focuses on understanding, modeling, and defending against these ML-targeted manipulations within safety-critical autonomous systems. I study how adversarial and backdoor attacks exploit the internal representations of perception models, how these vulnerabilities manifest across sensing modalities {% cite shahriar2025fragility %}, and how to design defenses that remain effective under real-world constraints such as limited compute, dynamic environments, and online decision-making.

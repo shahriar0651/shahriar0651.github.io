@@ -10,12 +10,6 @@ related_publications: true
 
 ### **Thrust III: Defense Against Cross-Domain Cyber–ML Attacks in Autonomous CPS**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/thrust_3.jpg" title="Thrust III: Defense Against Cross-Domain Cyber–ML Attacks in Autonomous CPS" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 Autonomous CPS depend on tightly coupled sensing, communication, and learning pipelines. Multimodal sensors such as cameras, LiDAR, and radar provide complementary information, while high-speed networks and synchronization protocols ensure that these data streams arrive on time and in alignment. Machine learning models then fuse these heterogeneous modalities to produce reliable scene understanding and support downstream planning and control. This seamless integration of sensing, networking, and ML is essential for safe autonomy—but it also introduces a new class of vulnerabilities that emerge between these domains.
 
 My research in this thrust focuses on understanding and defending against cross-domain cyber–ML attacks that manipulate the communication, timing, or synchronization layers in ways that disrupt learning-based perception without ever altering the raw sensor content. These attacks exploit the implicit assumptions that autonomous systems make about temporal alignment, data freshness, and middleware integrity. Even small network-induced delays or subtle timing inconsistencies can break multimodal fusion logic, degrade perception accuracy, and cascade into hazardous control decisions {% cite shahriar2025fragility %}.
