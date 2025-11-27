@@ -33,14 +33,14 @@ My research bridges **cyber-physical systems (CPS)**, **artificial intelligence 
 
 **I'm open to tenure-track faculty opportunities beginning in Fall 2026.**
 
-## research interests
+## Research Interests
 
 - Trustworthy & Robust Artificial Intelligence
 - Cyber-Physical Systems (CPS) Security & Resilience
 - Autonomous & Embodied Systems Security
 - Critical Infrastructure & Energy Systems Security
 
-## education
+## Education
 
 - **Ph.D. in Computer Science**, Virginia Tech (2026 expected)
 - **M.S. in Computer Engineering**, Florida International University (2020)

@@ -8,12 +8,12 @@ nav_order: 5
 
 <!-- _pages/services.md -->
 
-## **Artifact Evaluation Committee**
+## Artifact Evaluation Committee
 
 - ACM Conference on Computer and Communications Security (CCS) — 2025
 - USENIX WOOT Conference on Offensive Technologies (WOOT) — 2026
 
-## **Journal Reviewer**
+## Journal Reviewer
 
 - IEEE Internet of Things Journal (IoT-J) — 2025
 - IEEE Transactions on Big Data (TBD) — 2025
@@ -27,7 +27,7 @@ nav_order: 5
 - IEEE Power & Energy Society Transactions on Power Systems (IEEE PES) — 2021
 - International Journal of Electronic Security and Digital Forensics (IJESDF) — 2021
 
-## **External Conference Reviewer**
+## External Conference Reviewer
 
 - ACM ASIA Conference on Computer and Communications Security (AsiaCCS) — 2025
 - IEEE Symposium on Security and Privacy (IEEE S&P) — 2022–2025
@@ -39,7 +39,7 @@ nav_order: 5
 - IEEE International Conference on Communications (ICC) — 2020
 - International Symposium on Network Systems Security (NSysS) — 2019
 
-## **Community and Outreach Involvement**
+## Community and Outreach Involvement
 
 - Student Volunteer, IEEE International Conference on Distributed Computing Systems (ICDCS), 2024
 - Campus Representative, Graduate Student Assembly (GSA) – DC Region, Virginia Tech, 2023
