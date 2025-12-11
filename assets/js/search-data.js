@@ -509,7 +509,7 @@ ninja.data = [{
           title: 'Presented our NoiSec paper at ESORICS 2025 in Toulouse, France.',
           description: "",
           section: "News",},{id: "news-our-paper-dejavu-temporal-misalignment-attacks-against-multimodal-perception-in-autonomous-driving-has-been-accepted-to-the-ieee-conference-on-secure-and-trustworthy-machine-learning-satml-2026-acceptance-rate-26",
-          title: 'Our paper “DejaVu: Temporal Misalignment Attacks against Multimodal Perception in Autonomous Driving’’ has...',
+          title: '🎉 Our paper “DejaVu: Temporal Misalignment Attacks against Multimodal Perception in Autonomous Driving’’...',
           description: "",
           section: "News",},{id: "projects-defending-autonomous-cps-against-adaptive-and-stealthy-cyber-attacks",
           title: 'Defending Autonomous CPS Against Adaptive and Stealthy Cyber Attacks',
