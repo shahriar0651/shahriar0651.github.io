@@ -29,11 +29,13 @@ nav_order: 5
 
 ## External Conference Reviewer
 
-- ACM ASIA Conference on Computer and Communications Security (AsiaCCS) — 2025
-- IEEE Symposium on Security and Privacy (IEEE S&P) — 2022–2025
-- European Symposium on Research in Computer Security (ESORICS) — 2022–2024
-- ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec) — 2022–2025
-- IEEE Conference on Communications and Network Security (IEEE CNS) — 2022–2024
+- ACM ASIA Conference on Computer and Communications Security (AsiaCCS) — 2026
+- IEEE International Conference on Computer Communications (INFOCOM) - 2026
+- IEEE Symposium on Security and Privacy (IEEE S&P) — 2022–2026
+- European Symposium on Research in Computer Security (ESORICS) — 2022–2025
+- ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec) — 2022–2026
+- IEEE Conference on Communications and Network Security (IEEE CNS) — 2022–2026
+- Symposium on Vehicle Security and Privacy (VehicleSec) 2023-2025
 - International Conference on Computer Communication and Networks (ICCCN) — 2023
 - IEEE International Conference on Distributed Computing Systems (ICDCS) — 2022
 - IEEE International Conference on Communications (ICC) — 2020
