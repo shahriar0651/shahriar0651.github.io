@@ -100,14 +100,28 @@
               {% else %}
                 {% assign parent_link = p.permalink | remove: 'index.html' %}
                 <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
-                  {%- if p.permalink contains '://' -%}
+                  {%- assign nav_target = null -%}
+                  {%- if p.permalink == '/cv/' and p.cv_pdf -%}
+                    {%- assign nav_target = '_blank' -%}
+                    {%- if p.cv_pdf contains '://' -%}
+                      {%- assign url = p.cv_pdf -%}
+                    {%- else -%}
+                      {%- assign url = p.cv_pdf | prepend: '/assets/pdf/' -%}
+                    {%- endif -%}
+                  {%- elsif p.permalink contains '://' -%}
                     {%- assign url = p.permalink -%}
                   {%- elsif p.permalink contains '/blog/' -%}
                     {%- assign url = '/blog/' -%}
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
-                  <a class="nav-link" href="{{ url | relative_url }}">
+                  <a
+                    class="nav-link"
+                    href="{{ url | relative_url }}"
+                    {% if nav_target %}
+                      target="{{ nav_target }}" rel="noopener noreferrer"
+                    {% endif %}
+                  >
                     {{- p.title }}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
