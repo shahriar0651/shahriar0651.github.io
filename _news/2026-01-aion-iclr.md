@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper ["AION: Detecting Temporal Misalignment Attacks in Multimodal Fusion for Autonomous Driving''](https://openreview.net/forum?id=SWlCJab9gZ) has been accepted to the International Conference on Learning Representation (ICLR 2026).
+🎉 Our paper ["AION: Detecting Temporal Misalignment Attacks in Multimodal Fusion for Autonomous Driving''](https://openreview.net/forum?id=SWlCJab9gZ) has been accepted to the ICLR 2026!
