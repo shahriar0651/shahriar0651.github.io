@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am serving as an Artifacts Evaluation Program Committee Member for ACM CCS 2025.
+🤝 I am serving as an Artifacts Evaluation Program Committee Member for **ACM CCS 2025**.

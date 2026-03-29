@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended the [CyberTruck Challenge 2024](https://www.cybertruckchallenge.org/past-challenges/2024-2/) in Warren, Michigan, for hands-on experience in automotive cybersecurity.
+🚗 Attended the **[CyberTruck Challenge 2024](https://www.cybertruckchallenge.org/past-challenges/2024-2/)** in Warren, Michigan, for hands-on experience in automotive cybersecurity.

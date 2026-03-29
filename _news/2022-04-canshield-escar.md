@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted: "CANShield: Signal-based Intrusion Detection for Controller Area Networks" at ESCAR USA 2022.
+🎉 Paper accepted: "CANShield: Signal-based Intrusion Detection for Controller Area Networks" at **ESCAR USA 2022**.

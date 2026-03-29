@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Defended BSc thesis: "Transient Stability Analysis of Smart Grid with Impacts of Distributed Generation."
+🎓 Defended BSc thesis: "Transient Stability Analysis of Smart Grid with Impacts of Distributed Generation."

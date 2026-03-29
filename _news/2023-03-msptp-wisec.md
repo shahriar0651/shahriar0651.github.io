@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted: "MS-PTP: Protecting Network Timing from Byzantine Attacks" at ACM WiSec 2023.
+🎉 Paper accepted: "MS-PTP: Protecting Network Timing from Byzantine Attacks" at **ACM WiSec 2023**.

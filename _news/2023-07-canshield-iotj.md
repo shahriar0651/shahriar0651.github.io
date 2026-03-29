@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted: "CANShield: Deep Learning-Based Intrusion Detection Framework for Controller Area Networks at the Signal-Level" at IEEE Internet of Things Journal.
+🎉 Paper accepted: "CANShield: Deep Learning-Based Intrusion Detection Framework for Controller Area Networks at the Signal-Level" at **IEEE Internet of Things Journal**.

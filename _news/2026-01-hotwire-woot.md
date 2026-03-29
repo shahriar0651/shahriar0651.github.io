@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper "HotWire: Real-World Impersonation and Discharge Attacks on Electric Vehicle Charging Systems" has been accepted to the USENIX WOOT 2026!
+🎉 Paper accepted: "HotWire: Real-World Impersonation and Discharge Attacks on Electric Vehicle Charging Systems" at **USENIX WOOT 2026**!

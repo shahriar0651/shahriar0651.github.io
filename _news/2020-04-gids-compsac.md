@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted: "G-IDS: Generative Adversarial Networks Assisted Intrusion Detection System" at IEEE COMPSAC 2020.
+🎉 Paper accepted: "G-IDS: Generative Adversarial Networks Assisted Intrusion Detection System" at **IEEE COMPSAC 2020**.

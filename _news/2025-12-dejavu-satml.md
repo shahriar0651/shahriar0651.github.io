@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper ["DejaVu: Temporal Misalignment Attacks against Multimodal Perception in Autonomous Driving''](https://arxiv.org/abs/2507.09095) has been accepted to the IEEE SaTML 2026! Acceptance rate: ~26%.
+🎉 Paper accepted: ["DejaVu: Temporal Misalignment Attacks against Multimodal Perception in Autonomous Driving''](https://arxiv.org/abs/2507.09095) at **IEEE SaTML 2026**. Acceptance rate: ~26%.

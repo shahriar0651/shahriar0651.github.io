@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper "Noise, Why Can’t You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility" has been accepted to ACM AsiaCCS 2026.
+🎉 Paper accepted: "Noise, Why Can’t You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility" at **ACM AsiaCCS 2026**.

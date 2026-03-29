@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted: "VehiGAN: Generative Adversarial Networks for Adversarially Robust V2X Misbehavior Detection Systems" at ACM Transactions on Cyber-Physical Systems (TCPS) 2025.
+🎉 Paper accepted: "VehiGAN: Generative Adversarial Networks for Adversarially Robust V2X Misbehavior Detection Systems" at **ACM TCPS 2025**.

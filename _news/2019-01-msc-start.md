@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started MSc in Computer Engineering at [Florida International University](https://www.fiu.edu/).
+🎓 Started MSc in Computer Engineering at [Florida International University](https://www.fiu.edu/).

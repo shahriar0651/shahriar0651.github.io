@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented the VehiGAN paper at IEEE ICDCS 2024 in New Jersey, USA.
+🎤 Presented the VehiGAN paper at **IEEE ICDCS 2024** in New Jersey, USA.

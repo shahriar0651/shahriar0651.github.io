@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully completed my **Ph.D. preliminary exam**, titled _"Toward Trustworthy Autonomous Cyber-Physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control."_
+🎓 Successfully completed my **Ph.D. preliminary exam**, titled _"Toward Trustworthy Autonomous Cyber-Physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control."_

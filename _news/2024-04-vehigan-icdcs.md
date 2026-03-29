@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted: "VehiGAN: Generative Adversarial Networks for Adversarially Robust V2X Misbehavior Detection Systems" at IEEE ICDCS 2024.
+🎉 Paper accepted: "VehiGAN: Generative Adversarial Networks for Adversarially Robust V2X Misbehavior Detection Systems" at **IEEE ICDCS 2024**.

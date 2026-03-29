@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Defended MS thesis: "Deception Defense against Stealthy Attacks in Power Grids."
+🎓 Defended MS thesis: "Deception Defense against Stealthy Attacks in Power Grids."

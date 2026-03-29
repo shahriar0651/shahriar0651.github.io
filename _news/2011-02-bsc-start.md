@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started BSc in [Electrical and Electronic Engineering](https://eee.buet.ac.bd/) at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/).
+🎓 Started BSc in [Electrical and Electronic Engineering](https://eee.buet.ac.bd/) at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/).
