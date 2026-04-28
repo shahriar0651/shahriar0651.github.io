@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚢 Attended the **[Maritime Cybersecurity Hackathon 2025](https://carolinacybernetwork.net/2025-cyberboat-challenge-registration-open/)** in Wilmington, NC. 
+🚢 Attended the **[Maritime Cybersecurity Hackathon 2025](https://carolinacybernetwork.net/2025-cyberboat-challenge-registration-open/)** in Wilmington, NC.
