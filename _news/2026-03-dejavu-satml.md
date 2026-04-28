@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎤 Presented our **DejaVu** paper at **IEEE SaTML 2026** in Munich, Germany.
+🎤 Presented **DejaVu** at **IEEE SaTML 2026** in Munich, Germany.
