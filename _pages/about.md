@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate in CS@VT, AI/CPS Security Researcher
+subtitle: Incoming Assistant Professor, EECS @ University of Arkansas | Building Secure & Trustworthy Autonomous Systems
 
 profile:
   align: right
@@ -28,10 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Computer Science at Virginia Tech, working in the Complex Network and Security Research (CNSR) Lab under the supervision of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html)
+I completed my Ph.D. in Computer Science at Virginia Tech, where I worked in the Complex Network and Security Research (CNSR) Lab under the supervision of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html).
 My research bridges **cyber-physical systems (CPS)**, **artificial intelligence (AI)**, and **cybersecurity**, driven by a vision for securing the next generation of **Embodied AI**.
-
-**I'm open to tenure-track faculty opportunities beginning in Fall 2026.**
 
 ## Research Interests
 
@@ -42,6 +40,6 @@ My research bridges **cyber-physical systems (CPS)**, **artificial intelligence 
 
 ## Education
 
-- **Ph.D. in Computer Science**, Virginia Tech (2026 expected)
+- **Ph.D. in Computer Science**, Virginia Tech (2026)
 - **M.S. in Computer Engineering**, Florida International University (2020)
 - **B.Sc. in Electrical and Electronic Engineering**, Bangladesh University of Engineering and Technology (2016)

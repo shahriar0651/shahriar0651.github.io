@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 Successfully **defended my Ph.D. dissertation**, titled _''Toward Trustworthy Autonomous Cyber-Physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control.''_
+🎓 Completed Ph.D. in Computer Science at Virginia Tech. Dissertation title: _''Toward Trustworthy Autonomous Cyber-Physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control.''_

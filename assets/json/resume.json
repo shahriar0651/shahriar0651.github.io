@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Md Hasan Shahriar",
-    "label": "Graduate Student Researcher",
+    "name": "Hasan Shahriar",
+    "label": "Incoming Assistant Professor, EECS @ University of Arkansas",
     "image": "",
     "email": "hshahriar@vt.edu",
     "phone": "",
     "url": "https://shahriar0651.github.io",
-    "summary": "Ph.D. student in Computer Science at Virginia Tech. Research interests lie at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity, with a focus on developing scalable, attack-resilient, and trustworthy AI frameworks for safety-critical systems, particularly in embodied AI systems such as connected and autonomous vehicles.",
+    "summary": "Completed Ph.D. in Computer Science at Virginia Tech. Incoming Assistant Professor in EECS at the University of Arkansas. Building secure and trustworthy autonomous systems at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity.",
     "location": {
       "address": "Complex Network and Security Research Lab",
       "postalCode": "",

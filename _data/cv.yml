@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Md Hasan Shahriar
+      value: Hasan Shahriar
     - name: Position
-      value: PhD Candidate in Computer Science
+      value: Incoming Assistant Professor, EECS @ University of Arkansas
     - name: Institution
       value: Virginia Tech
     - name: Location
@@ -15,7 +15,7 @@
   contents:
     - title: PhD in Computer Science
       institution: Virginia Tech
-      year: 2021 - 2026 (Expected)
+      year: 2021 - 2026
       description:
         - "Dissertation: Toward Trustworthy Cyber-physical Systems: Robust Machine Learning for Secure Sensing, Perception, and Control"
         - "Advisor: Dr. Wenjing Lou"
