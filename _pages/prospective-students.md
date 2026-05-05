@@ -41,7 +41,7 @@ I am looking for students with:
 
 ## How to Apply
 
-Please email me the following materials to **[hshahriar@vt.edu](mailto:hshahriar@vt.edu)** with the subject as "Prospective PhD Student - [LastName]"
+Please email me the following materials to **[hshahriar@vt.edu](mailto:hshahriar@vt.edu)** with the subject as "**Prospective PhD Student - [LastName]**"
 
 - CV
 - Brief research statement (1–2 paragraphs)
