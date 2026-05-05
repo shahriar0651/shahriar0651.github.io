@@ -2,10 +2,12 @@
 layout: page
 title: Prospective Students
 permalink: /openings/
-description: I am actively recruiting highly motivated Ph.D. students to join my research group at the University of Arkansas, with positions starting in **Fall 2026 / Spring 2027**.
+description:
 nav: true
 nav_order: 6
 ---
+
+I am actively recruiting highly motivated Ph.D. students to join my research group at the University of Arkansas, with positions starting in **Fall 2026 / Spring 2027**.
 
 My research focuses on building **secure, resilient, and trustworthy autonomous systems** that operate reliably in real-world environments. This includes **autonomous driving, humanoid robotics, drones, and other embodied AI systems**, at the intersection of **artificial intelligence, cybersecurity, and cyber-physical systems (CPS)**.
 
