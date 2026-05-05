@@ -1,60 +1,46 @@
 ---
 layout: page
 title: Prospective Students
-permalink: /prospective-students/
-description: Information for students interested in joining my research group.
+permalink: /openings/
+description: I am actively recruiting highly motivated Ph.D. students to join my research group at the University of Arkansas, with positions starting in **Fall 2026 / Spring 2027**.
 nav: true
 nav_order: 6
 ---
 
-# Prospective Students
+My research focuses on building **secure, resilient, and trustworthy autonomous systems** that operate reliably in real-world environments. This includes **autonomous driving, humanoid robotics, drones, and other embodied AI systems**, at the intersection of **artificial intelligence, cybersecurity, and cyber-physical systems (CPS)**.
 
-I am actively recruiting highly motivated Ph.D. students to join my research group at the University of Arkansas, with positions starting in **Fall 2026 / Spring 2027**.
+## Key Research Areas
 
-My group focuses on **secure and trustworthy autonomous systems**, at the intersection of **artificial intelligence, cybersecurity, and cyber-physical systems (CPS)**. We aim to develop principled methods that improve the **robustness, safety, and security** of intelligent and autonomous systems operating in real-world environments.
+- Security and Privacy
+- Artificial Intelligence
+- Cyber-Physical Systems
+- Embodied AI/Physical AI
+- Autonomous Systems
+- Critical Infrastructure
 
-## Research Areas
+## Application Domains:
 
-- Trustworthy and robust AI for autonomous systems
-- Security of cyber-physical and embodied AI systems
-- Adversarial machine learning and multimodal perception security
-- Resilient autonomous systems and connected autonomy (e.g., V2X, robotics)
+- Connected and Autonomous Vehicles
+- Humanoid Robotos
+- Unmanned Aerial Vehicles
+- Smart Grid
+- Maritime Systems
 
-## What I Look For
+## Who Should Apply
 
-Applicants should have:
+I am looking for students with:
 
 - Strong background in **Computer Science, Computer Engineering, Electrical Engineering**, or related fields
-- Preparation in at least two of: **machine learning, cybersecurity, systems, or applied mathematics**
-- Strong programming skills (Python; C/C++ preferred)
-- Demonstrated research potential through projects, thesis work, publications, or internships
-- Ability to communicate technical ideas clearly
-
-## Preferred Preparation
-
-- Experience with ML frameworks (e.g., PyTorch or TensorFlow)
-- Understanding of security fundamentals and adversarial thinking
-- Solid mathematical foundation in linear algebra and probability
+- Experience in at least one (more will be preferred) of: **AI/ML, cybersecurity, CPS domain, etc.**
+- Strong programming skills (Python required; C/C++ preferred)
+- Hands on experience in ML libraries such as Torch, Tensor flow, Keras, SkLearn, etc.
+- Demonstrated research potential through publications, projects, thesis work, or internships
+- Driven and diligent, with strong analytical thinking and clear communication skills
 
 ## How to Apply
 
-Please email me with:
+Please email me the following materials to **[hshahriar@vt.edu](mailto:hshahriar@vt.edu)** with the subject as "Prospective PhD Student - [LastName]"
 
 - CV
 - Brief research statement (1–2 paragraphs)
-- Unofficial transcript (if available)
-- Links to projects or publications (if any)
-
-**Email:** [hshahriar@vt.edu](mailto:hshahriar@vt.edu)
-
-Due to high volume, I may not be able to respond individually to all inquiries. Selected candidates will be contacted.
-
-## Notes
-
-- Prior publications are helpful but not required.
-- Undergraduate and Master’s research opportunities may be available.
-- Applicants must also follow official EECS graduate admissions procedures and deadlines.
-
----
-
-If you want, I can further compress this into a **very high-impact “one-screen landing page” version** used by top CS labs.
+- Academic Transcript
