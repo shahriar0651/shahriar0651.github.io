@@ -32,10 +32,10 @@ ninja.data = [{
           },
         },{id: "nav-prospective-students",
           title: "Prospective Students",
-          description: "Information for students interested in joining my research group.",
+          description: "I am actively recruiting highly motivated Ph.D. students to join my research group at the University of Arkansas, with positions starting in **Fall 2026 / Spring 2027**.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/prospective-students/";
+            window.location.href = "/openings/";
           },
         },{id: "post-a-post-with-plotly-js",
         
