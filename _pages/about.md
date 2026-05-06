@@ -46,8 +46,8 @@ My research bridges **cyber-physical systems (CPS)**, **artificial intelligence 
 
 ## Prospective Students
 
-<div style="border: 2px solid #861f41; background:rgb(219, 208, 223); padding: 1.1rem 1.3rem; border-radius: 8px; margin: 1rem 0;">
-  <p style="margin: 0; font-weight: 600;">
+<div style="border: 2px solid var(--global-theme-color); background: var(--global-card-bg-color); box-shadow: inset 0 0 0 1px var(--global-divider-color); padding: 1.1rem 1.3rem; border-radius: 8px; margin: 1rem 0;">
+  <p style="margin: 0; font-weight: 600; color: var(--global-theme-color);">
     Ph.D. Positions Available (Fall 2026 / Spring 2027)
   </p>
   <p style="margin: 0.4rem 0 0 0;">

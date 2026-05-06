@@ -20,7 +20,7 @@ My research focuses on building **secure, resilient, and trustworthy autonomous 
 - Autonomous Systems
 - Critical Infrastructure
 
-## Application Domains:
+## Application Domains
 
 - Connected and Autonomous Vehicles
 - Humanoid Robotos
