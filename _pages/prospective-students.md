@@ -46,3 +46,12 @@ Please email me the following materials to **[hshahriar@vt.edu](mailto:hshahriar
 - CV
 - Brief research statement (1–2 paragraphs)
 - Academic Transcript
+
+<div style="border: 2px solid var(--global-theme-color); background: var(--global-card-bg-color); box-shadow: inset 0 0 0 1px var(--global-divider-color); padding: 1.1rem 1.3rem; border-radius: 8px; margin: 1rem 0;">
+  <p style="margin: 0; font-weight: 600; color: var(--global-theme-color);">
+    Application Update
+  </p>
+  <p style="margin: 0.4rem 0 0 0;">
+    Due to the large volume of emails, I may not be able to respond to everyone individually. I will reach out to potential candidates soon with the next steps.
+  </p>
+</div>
