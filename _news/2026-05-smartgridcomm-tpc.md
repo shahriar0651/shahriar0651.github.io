@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🤝 I am serving as a Technical Program Committee (TPC) Member for **IEEE SmartGridComm 2026**.
+🤝 I am serving as a TPC Member for **IEEE SmartGridComm 2026**.
