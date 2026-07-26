@@ -97,6 +97,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - NSF Cyber SMART Distinguished Dissertation Award
     - year: 2024
       items:
         - Amazon Fellowship, Amazon-VT Initiative for Efficient and Robust Machine Learning
