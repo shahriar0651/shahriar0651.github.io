@@ -7,7 +7,8 @@ year: 2024
 term: Spring
 location: Science Building, Room 202
 time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+course_id: dummy
+hidden: true
 schedule:
   - week: 1
     date: Feb 5

@@ -7,6 +7,7 @@ year: 2016
 term: Fall
 location: Uttara University, Dhaka, Bangladesh
 course_id: uttara-digital-logic-design
+hidden: true
 ---
 
 ## Course Overview
