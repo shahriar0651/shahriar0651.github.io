@@ -562,6 +562,21 @@ ninja.data = [{
           description: "Securing multimodal perception pipelines against network-induced and timing attacks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "teachings-digital-design-csce-21104-eleg-29004",
+          title: 'Digital Design (CSCE 21104 / ELEG 29004)',
+          description: "Introduction to digital hardware, logic design, VHDL, and FPGA implementation. Required for CE, CS, and EE.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/csce21104-digital-design/";
+            },},{id: "teachings-place-holder",
+          title: 'Place Holder',
+          description: "Dummy description",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/dummy/";
+            },},{id: "teachings-digital-logic-design",
+          title: 'Digital Logic Design',
+          description: "Undergraduate course on digital logic design, taught with corresponding laboratory sessions.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/uttara-digital-logic-design/";
             },},{
         id: 'social-email',
         title: 'email',
