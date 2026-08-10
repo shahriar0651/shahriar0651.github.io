@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Hasan Shahriar",
-    "label": "Incoming Assistant Professor, EECS @ University of Arkansas",
+    "label": "Assistant Professor, EECS @ University of Arkansas",
     "image": "",
     "email": "hshahriar@vt.edu",
     "phone": "",
     "url": "https://shahriar0651.github.io",
-    "summary": "Completed Ph.D. in Computer Science at Virginia Tech. Incoming Assistant Professor in EECS at the University of Arkansas. Building secure and trustworthy autonomous systems at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity.",
+    "summary": "Assistant Professor in EECS at the University of Arkansas. Ph.D. in Computer Science from Virginia Tech. Building secure and trustworthy autonomous systems at the intersection of cyber-physical systems (CPS), artificial intelligence (AI), and cybersecurity.",
     "location": {
-      "address": "Complex Network and Security Research Lab",
-      "postalCode": "",
-      "city": "Arlington",
+      "address": "Bell Engineering Center, BELL 3181, 800 W Dickson St",
+      "postalCode": "72701",
+      "city": "Fayetteville",
       "countryCode": "US",
-      "region": "Virginia"
+      "region": "Arkansas"
     },
     "profiles": [
       {
@@ -29,11 +29,24 @@
   },
   "work": [
     {
+      "name": "Department of Electrical Engineering and Computer Science (EECS), University of Arkansas",
+      "position": "Assistant Professor",
+      "url": "https://eecs.uark.edu/",
+      "startDate": "2026-08-10",
+      "endDate": "",
+      "summary": "Building secure and trustworthy autonomous systems at the intersection of cyber-physical systems, artificial intelligence, and cybersecurity.",
+      "highlights": [
+        "Trustworthy and robust artificial intelligence",
+        "Cyber-physical systems security and resilience",
+        "Autonomous and embodied systems security"
+      ]
+    },
+    {
       "name": "Complex Network and Security Research (CNSR) Lab, Virginia Tech",
       "position": "Graduate Student Researcher",
       "url": "https://people.cs.vt.edu/wenjing/",
       "startDate": "2021-01-01",
-      "endDate": "",
+      "endDate": "2026-08-09",
       "summary": "Ph.D. research integrating cybersecurity, machine learning, and CPS to develop robust, resilient, and trustworthy AI for connected and autonomous vehicles. Designed intrusion detection systems for CAN and V2X networks, investigated multimodal fusion attacks, and developed unified defense frameworks.",
       "highlights": [
         "Intrusion detection systems for CAN and V2X networks",

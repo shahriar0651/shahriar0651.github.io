@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Assistant Professor, EECS @ University of Arkansas | Building Secure & Trustworthy Autonomous Systems
+subtitle: Assistant Professor, EECS @ University of Arkansas | Building Secure & Trustworthy Autonomous Systems
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>VTech Research Center</p>
-    <p>900 N Glebe Road</p>
-    <p>Arlington, VA 22204</p>
+    <p>Bell Engineering Center, BELL 3181</p>
+    <p>800 W Dickson St</p>
+    <p>Fayetteville, AR 72701</p>
     <p><a href="mailto:hshahriar@vt.edu">hshahriar@vt.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,6 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am an Assistant Professor in the Department of Electrical Engineering and Computer Science (EECS) at the University of Arkansas.
 I completed my Ph.D. in Computer Science at Virginia Tech, where I worked in the Complex Network and Security Research (CNSR) Lab under the supervision of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html).
 My research bridges **cyber-physical systems (CPS)**, **artificial intelligence (AI)**, and **cybersecurity**, driven by a vision for securing the next generation of **Embodied AI**.
 

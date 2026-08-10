@@ -4,11 +4,11 @@
     - name: Full Name
       value: Hasan Shahriar
     - name: Position
-      value: Incoming Assistant Professor, EECS @ University of Arkansas
+      value: Assistant Professor, EECS @ University of Arkansas
     - name: Institution
-      value: Virginia Tech
+      value: University of Arkansas
     - name: Location
-      value: Arlington, Virginia, USA
+      value: Bell Engineering Center, BELL 3181, 800 W Dickson St, Fayetteville, AR 72701
 
 - title: Education
   type: time_table
@@ -35,9 +35,14 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: Department of Electrical Engineering and Computer Science (EECS), University of Arkansas
+      year: Aug 2026 - Present
+      description:
+        - Building secure and trustworthy autonomous systems at the intersection of cyber-physical systems, artificial intelligence, and cybersecurity
     - title: Graduate Student Researcher
       institution: Complex Network and Security Research (CNSR) Lab, Virginia Tech
-      year: 2021 - Present
+      year: 2021 - Aug 2026
       description:
         - "Advisor: Dr. Wenjing Lou"
         - Ph.D. research integrating cybersecurity, machine learning, and CPS to develop robust, resilient, and trustworthy AI for connected and autonomous vehicles
