@@ -578,6 +578,13 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/uttara-digital-logic-design/";
             },},{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/241/1538.html", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -592,11 +599,18 @@ ninja.data = [{
           window.open("https://github.com/shahriar0651", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/mdhasan-shahriar", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-0289-8611", "_blank");
         },
       },{
         id: 'social-scholar',
