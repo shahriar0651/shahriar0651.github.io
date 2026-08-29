@@ -8,6 +8,12 @@ nav_order: 5
 
 <!-- _pages/services.md -->
 
+## Program Committee Member
+
+- IEEE International Conference on Computer Communications (INFOCOM) — 2027
+- IEEE Conference on Communications and Network Security (IEEE CNS) — 2026
+- IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm) — 2026
+
 ## Artifact Evaluation Committee
 
 - ACM Conference on Computer and Communications Security (CCS) — 2025
@@ -15,7 +21,7 @@ nav_order: 5
 
 ## Journal Reviewer
 
-- IEEE Internet of Things Journal (IoT-J) — 2025
+- IEEE Internet of Things Journal (IoT-J) — 2025, 2026
 - IEEE Transactions on Big Data (TBD) — 2025
 - ACM Transactions on Cyber-Physical Systems (TCPS) — 2025
 - IEEE Transactions on Vehicular Technology (TVT) — 2024
@@ -29,22 +35,17 @@ nav_order: 5
 
 ## External Conference Reviewer
 
+- International Conference on Learning Representations (ICLR) — 2027
+- Conference on Neural Information Processing Systems (NeurIPS) — 2026
 - ACM ASIA Conference on Computer and Communications Security (AsiaCCS) — 2026
-- IEEE International Conference on Computer Communications (INFOCOM) - 2026
+- IEEE International Conference on Computer Communications (INFOCOM) — 2026
 - IEEE Symposium on Security and Privacy (IEEE S&P) — 2022–2026
 - European Symposium on Research in Computer Security (ESORICS) — 2022–2025
 - ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec) — 2022–2026
-- IEEE Conference on Communications and Network Security (IEEE CNS) — 2022–2026
+- IEEE Conference on Communications and Network Security (IEEE CNS) — 2022–2025
 - Symposium on Vehicle Security and Privacy (VehicleSec) 2023-2025
 - International Conference on Computer Communication and Networks (ICCCN) — 2023
 - IEEE International Conference on Distributed Computing Systems (ICDCS) — 2022
 - IEEE International Conference on Communications (ICC) — 2020
 - International Symposium on Network Systems Security (NSysS) — 2019
 
-## Community and Outreach Involvement
-
-- Student Volunteer, IEEE International Conference on Distributed Computing Systems (ICDCS), 2024
-- Campus Representative, Graduate Student Assembly (GSA) – DC Region, Virginia Tech, 2023
-- Session Chair, IEOM North American Industrial Engineering and Operations Management Conference, 2022
-- Judge, Engineering Section, Northern Virginia Regional Science Fair, 2022
-- Student Volunteer, ACM Conference on Security & Privacy in Wireless and Mobile Networks (WiSec), 2020
