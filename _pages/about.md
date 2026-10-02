@@ -8,6 +8,13 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    <div class="address">
+      <p>Bell Engineering Center, BELL 3181</p>
+      <p>800 W Dickson St</p>
+      <p>Fayetteville, AR 72701</p>
+      <p><a href="mailto:shahriar@uark.edu">shahriar@uark.edu</a></p>
+    </div>
   social: true # show social icons under the headshot
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
