@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, EECS @ University of Arkansas 
+subtitle: Assistant Professor, EECS @ University of Arkansas
 
 profile:
   align: right

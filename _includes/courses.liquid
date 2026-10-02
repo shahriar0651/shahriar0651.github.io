@@ -1,6 +1,6 @@
 {% if site.teachings %}
   <div class="courses">
-    {% assign visible_courses = site.teachings | where_exp: "course", "course.hidden != true" %}
+    {% assign visible_courses = site.teachings | where_exp: 'course', 'course.hidden != true' %}
     {% assign courses_by_year = visible_courses | sort: 'year' | reverse | group_by: 'year' %}
 
     {% for year_group in courses_by_year %}
@@ -36,4 +36,3 @@
 {% else %}
   <p>No courses available yet.</p>
 {% endif %}
-
