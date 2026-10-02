@@ -570,6 +570,11 @@ ninja.data = [{
           description: "Introduction to digital hardware, logic design, VHDL, and FPGA implementation. Required for CE, CS, and EE.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/csce21104-digital-design/";
+            },},{id: "teachings-information-security-csce-48503",
+          title: 'Information Security (CSCE 48503)',
+          description: "Principles, mechanisms, and policies for confidentiality, integrity, and availability of digital information. Selected elective.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/csce48503-information-security/";
             },},{id: "teachings-place-holder",
           title: 'Place Holder',
           description: "Dummy description",
@@ -592,7 +597,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%73%68%61%68%72%69%61%72@%75%61%72%6B.%65%64%75", "_blank");
+          window.open("mailto:%73%68%61%68%72%69%61%72@%75%61%72%6B.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
