@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/openings/";
           },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "Office address and email for Hasan Shahriar.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contact/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
